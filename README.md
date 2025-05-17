@@ -14,8 +14,11 @@
 ### 🧠 Tech Stack
 
 **Programming:**	Python, Jupyter Notebook
+
 **Libraries:**	Pandas, NumPy, Scikit-learn, NLTK, Pickle
+
 **NLP:** CountVectorizer
+
 **Data:** Kaggle
 
 ### 📊 Recommendation Logic
